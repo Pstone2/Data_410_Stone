@@ -1,26 +1,28 @@
----
-title: 'Hello World Data 410'
-author: 'Patrick Stone'
-date: 'Edited: 2/4/2022'
-semester: 'Spring 2022'
----
+## **Hello World Data 410**
+
+**Patrick Stone**
+
+**Edited: 2/4/2022**
+
+**Spring 2022**
 
 ![](https://th.bing.com/th/id/R.b8f4c0b889c4a89a02a0c93d4be13d33?rik=bine2TbYbOjrrw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-cpmtMHI-d4Y%2fTzErKJCaKnI%2fAAAAAAAA27I%2f6ZHcXekCynU%2fs1600%2fDungeonsDragons0cover.jpg&ehk=2nCZOKKWbbZCS7UYvGKkoNXta2B9FUlkjep%2bz%2fq%2fyrc%3d&risl=&pid=ImgRaw&r=0 "Dragon")
 
-**About me**
+## **About me**
 
 My name is Patrick Stone.
 I am a sophomore data science major.
-I am excited to learn about spatial data.
-I have some experience with spatial data from my senior research project in high school but I am hoping to learn a lot this semester!
-In my free time, I mainly enjoy playing Dungeons & Dragons.
+I am excited to learn about Machine learning.
+In my free time, I mainly enjoy playing Dungeons & Dragons and Magic the Gathering.
 I hope to graduate and specialize in machine learning. 
 
-**Top D&D spells**
+## **Math**
 
-1. Fireball
-2. Disintegrate
-3. Finger of death
+**Pythagorean theorem**
+
+a^2 + b^2 = c^2
+
+## **Python Code**
 
 ```python
 #import the the library we need
