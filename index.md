@@ -18,9 +18,9 @@ I hope to graduate and specialize in machine learning.
 
 ## **Math**
 
-**Pythagorean theorem**
+**Basic addition**
 
-a^2 + b^2 = c^2
+1 + 10 = 11
 
 ## **Python Code**
 
